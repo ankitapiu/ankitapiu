@@ -3,7 +3,7 @@
 <p><em>Software Enginner at <a href="http://www.unb.br">CSM Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
  
-[![Linkedin: ankita](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankitadas/)](https://www.linkedin.com/in/ankita-d-4371b8138/)
+[![Linkedin: ankita](https://img.shields.io/badge/-ankitadas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankitadas/)](https://www.linkedin.com/in/ankita-d-4371b8138/)
 [![GitHub ankita](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/ankitapiu)
  
  
